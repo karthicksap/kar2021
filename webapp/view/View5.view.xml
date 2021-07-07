@@ -3,8 +3,4 @@
             xmlns="sap.m"
             controllerName="emc.fin.ar.controller.View5">
 
-<Page>
-
-</Page>
-
 </mvc:View>
